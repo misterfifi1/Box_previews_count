@@ -1,3 +1,5 @@
 # GM_Box_previews_count
 
-Just a litt GreaseMonkey code to get the tottal previews on the page 
+Just a litle GreaseMonkey (JS) code to get the number of previews on a Box page 
+
+http://wiki.greasespot.net/Main_Page
