@@ -12,5 +12,5 @@ function showAlert()
       sum += parseInt(value.text);
     }
   });
-  alert('Page previews: ' + sum);
+  alert('Number of previews on this page: ' + sum);
 }
